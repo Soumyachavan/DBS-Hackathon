@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-image: linear-gradient(whitesmoke,white);
+}
+
+h1, p{
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.submit{
+    text-align: center;
+}
+
+button{
+    
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 50px;
+}
