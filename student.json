@@ -1,0 +1,53 @@
+
+{"intents":
+        [
+{"tag":"greeting",
+	 "input":["hello",
+		 "hi there",
+		 "nice to meet you",
+		 "hi,is this is the coronavirus chatbot",
+		 "hi",
+		 "hey",
+		 "hey there",
+		 "How are you?",
+		 "Is anyone there",
+		 "good day",
+		 "whats up?",
+		 "how are ya",
+		 "heyy",
+		 "whatsup"],
+	 "responses":["Hello!",
+		 						"ahoy!!",
+                                "Good to see you again!",
+                                "Hi there, how can I help?"
+		      ]
+	},
+	{"tag":"goodbye",
+	 "input":["cya",
+                                "see you",
+                                "bye bye",
+                                "See you later",
+                                "Goodbye",
+                                "I am Leaving",
+                                "Bye",
+                                "Have a Good day",
+                                "talk to you later",
+                                "tyyl",
+                                "i got to go",
+                                "going"],
+	 "responses":["Sad to see you go :(",
+                                "Talk to you later",
+                                "Goodbye!",
+                                "Come back soon",
+				"okay, Bye",
+				"have a nice day"
+		      ]
+	},
+
+{"tag":"howcanihelpyou",
+	 "input":["how can i get college details?"
+	 ],
+	 "responses":[" get connected with a senior in order to know the details"]
+ }
+        ]
+}
